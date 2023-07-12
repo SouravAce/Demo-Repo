@@ -1,3 +1,3 @@
 # Demo
 
-Hey, I am using Git now      
+Hey, I am using Git now!
